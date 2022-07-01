@@ -36,3 +36,5 @@
 <!-- BLOG-POST-LIST:START -->
 - [Basic Introduction to Linux Operating System](https://learntodevops.hashnode.dev/basic-introduction-to-linux-operating-system)
 <!-- BLOG-POST-LIST:END -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omisore76)](https://github.com/anuraghazra/github-readme-stats)
