@@ -1,5 +1,5 @@
 ### Hi there, my name is **Omisore Dotun**  
-
+&nbsp;&nbsp;
 <img src="Images/wavinghand.gif" alt="image" style="width:30px;"/>
 
 
@@ -19,9 +19,15 @@
 
 ### Languages and Tools:
 <img src="Images/linux-svgrepo-com.svg" alt="image" style="width:30px;"/>
+&nbsp;&nbsp;
 <img src="Images/bash-svgrepo-com.svg" alt="image" style="width:30px;"/>
+&nbsp;&nbsp;
 <img src="Images/git-logo-svgrepo-com.svg" alt="image" style="width:30px;"/>
+&nbsp;&nbsp;
 <img src="Images/github-svgrepo-com.svg" alt="image" style="width:30px;"/>
+&nbsp;&nbsp;
 <img src="Images/py-svgrepo-com.svg" alt="image" style="width:30px;"/>
+&nbsp;&nbsp;
 <img src="Images/networking-svgrepo-com.svg" alt="image" style="width:30px;"/>
+&nbsp;&nbsp;
 <img src="Images/aws-svgrepo-com.svg" alt="image" style="width:30px;"/>
