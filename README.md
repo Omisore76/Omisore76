@@ -9,8 +9,10 @@
 - ⚡ Fun fact: I love sports, especially **soccer**
 
 ### Connect with me:
-[<img src="Images/linkedin-svgrepo-com.svg" alt="image" style="width:20px;"/>](https://www.linkedin.com/in/omisore-dotun/)
-[<img src="Images/hashnode-icon-svgrepo-com.svg" alt="image" style="width:20px;"/>](https://learntodevops.hashnode.dev/)
-[<img src="twitter-svgrepo-com.svg" alt="image" style="width:20px;"/>](https://twitter.com/Learn2devops)
+[<img src="Images/linkedin-svgrepo-com.svg" alt="image" style="width:30px;"/>](https://www.linkedin.com/in/omisore-dotun/)
+&nbsp;&nbsp;
+[<img src="Images/hashnode-icon-svgrepo-com.svg" alt="image" style="width:30px;"/>](https://learntodevops.hashnode.dev/)
+&nbsp;&nbsp;
+[<img src="Images/twitter-svgrepo-com.svg" alt="image" style="width:30px;"/>](https://twitter.com/Learn2devops)
 
 ### Languages and Tools:
