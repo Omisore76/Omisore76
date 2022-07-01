@@ -32,7 +32,7 @@
 &nbsp;&nbsp;
 [<img src="Images/aws-svgrepo-com.svg" alt="image" style="width:30px;"/>](Images/aws-svgrepo-com.svg)
 
-# New Blog Posts
+# 📩 New Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Basic Introduction to Linux Operating System](https://learntodevops.hashnode.dev/basic-introduction-to-linux-operating-system)
 <!-- BLOG-POST-LIST:END -->
