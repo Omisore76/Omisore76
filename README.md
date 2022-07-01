@@ -1,4 +1,6 @@
-### Hi there, my name is **Omisore Dotun** 👋 [<img src="Images/wavinghand.gif" alt="image" style="width:30px;"/>]
+### Hi there, my name is **Omisore Dotun**  
+
+<img src="Images/wavinghand.gif" alt="image" style="width:30px;"/>
 
 
 ## I'm a DevOps Engineer and a Technical Writer!
@@ -16,10 +18,10 @@
 [<img src="Images/twitter-svgrepo-com.svg" alt="image" style="width:30px;"/>](https://twitter.com/Learn2devops)
 
 ### Languages and Tools:
-[<img src="Images/linux-svgrepo-com.svg" alt="image" style="width:30px;"/>]
-[<img src="Images/bash-svgrepo-com.svg" alt="image" style="width:30px;"/>]
-[<img src="Images/git-logo-svgrepo-com.svg" alt="image" style="width:30px;"/>]
-[<img src="Images/github-svgrepo-com.svg" alt="image" style="width:30px;"/>]
-[<img src="Images/py-svgrepo-com.svg" alt="image" style="width:30px;"/>]
-[<img src="Images/networking-svgrepo-com.svg" alt="image" style="width:30px;"/>]
-[<img src="Images/aws-svgrepo-com.svg" alt="image" style="width:30px;"/>]
+<img src="Images/linux-svgrepo-com.svg" alt="image" style="width:30px;"/>
+<img src="Images/bash-svgrepo-com.svg" alt="image" style="width:30px;"/>
+<img src="Images/git-logo-svgrepo-com.svg" alt="image" style="width:30px;"/>
+<img src="Images/github-svgrepo-com.svg" alt="image" style="width:30px;"/>
+<img src="Images/py-svgrepo-com.svg" alt="image" style="width:30px;"/>
+<img src="Images/networking-svgrepo-com.svg" alt="image" style="width:30px;"/>
+<img src="Images/aws-svgrepo-com.svg" alt="image" style="width:30px;"/>
