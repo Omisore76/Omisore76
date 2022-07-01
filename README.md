@@ -2,6 +2,7 @@
 &nbsp;&nbsp;
 <img src="Images/wavinghand.gif" alt="image" style="width:30px;"/>
 
+---
 
 ## I'm a DevOps Engineer and a Technical Writer!
 - 🌱 I’m currently learning **Cloud Computing**
@@ -10,12 +11,16 @@
 - 😄 Pronouns:Him/He 
 - ⚡ Fun fact: I love sports, especially **soccer**
 
+---
+
 ### Connect with me:
 [<img src="Images/linkedin-svgrepo-com.svg" alt="image" style="width:30px;"/>](https://www.linkedin.com/in/omisore-dotun/)
 &nbsp;&nbsp;
 [<img src="Images/hashnode-icon-svgrepo-com.svg" alt="image" style="width:30px;"/>](https://learntodevops.hashnode.dev/)
 &nbsp;&nbsp;
 [<img src="Images/twitter-svgrepo-com.svg" alt="image" style="width:30px;"/>](https://twitter.com/Learn2devops)
+
+---
 
 ### Languages and Tools:
 [<img src="Images/linux-svgrepo-com.svg" alt="image" style="width:30px;"/>](Images/linux-svgrepo-com.svg)
@@ -32,9 +37,13 @@
 &nbsp;&nbsp;
 [<img src="Images/aws-svgrepo-com.svg" alt="image" style="width:30px;"/>](Images/aws-svgrepo-com.svg)
 
+---
+
 # 📩 New Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Basic Introduction to Linux Operating System](https://learntodevops.hashnode.dev/basic-introduction-to-linux-operating-system)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omisore76)](https://github.com/anuraghazra/github-readme-stats)
