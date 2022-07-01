@@ -31,3 +31,7 @@
 [<img src="Images/networking-svgrepo-com.svg" alt="image" style="width:30px;"/>](Images/networking-svgrepo-com.svg)
 &nbsp;&nbsp;
 [<img src="Images/aws-svgrepo-com.svg" alt="image" style="width:30px;"/>](Images/aws-svgrepo-com.svg)
+
+# New Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
