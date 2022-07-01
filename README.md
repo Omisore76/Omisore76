@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, my name is **Omisore Dotun** 👋
 
-<!--
-**Omisore76/Omisore76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+## I'm a DevOps Engineer and a Technical Writer!
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Cloud Computing**
+- 🥅 One of my 2022 goals is to become a **DevOps engineer**
+- 👯 I’m looking forward to collaborating on any **DevOps projects**
+- 😄 Pronouns:Him/He 
+- ⚡ Fun fact: I love sports, especially **soccer**
+
+### Connect with me:
+
+### Languages and Tools:
