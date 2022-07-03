@@ -41,6 +41,7 @@
 
 # 📩 New Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basic Linux Commands: Beginners Friendly](https://learntodevops.hashnode.dev/basic-linux-commands-beginners-friendly)
 - [Basic Introduction to Linux Operating System](https://learntodevops.hashnode.dev/basic-introduction-to-linux-operating-system)
 <!-- BLOG-POST-LIST:END -->
 
