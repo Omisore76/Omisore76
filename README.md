@@ -41,11 +41,11 @@
 
 # 📩 New Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Osi Model](https://learntodevops.hashnode.dev/the-osi-model)
 - [Networking Devices](https://learntodevops.hashnode.dev/networking-devices)
 - [Computer Networking](https://learntodevops.hashnode.dev/computer-networking)
 - [Flow Control in Bash Scripting](https://learntodevops.hashnode.dev/flow-control-in-bash-scripting)
 - [Bash Scripting for Beginners](https://learntodevops.hashnode.dev/bash-scripting-for-beginners)
-- [Basic Linux Commands: Beginners Friendly](https://learntodevops.hashnode.dev/basic-linux-commands-beginners-friendly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
