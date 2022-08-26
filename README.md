@@ -41,11 +41,11 @@
 
 # 📩 New Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS 3-tier Architecture](https://learntodevops.hashnode.dev/aws-3-tier-architecture)
 - [The Osi Model](https://learntodevops.hashnode.dev/the-osi-model)
 - [Networking Devices](https://learntodevops.hashnode.dev/networking-devices)
 - [Computer Networking](https://learntodevops.hashnode.dev/computer-networking)
 - [Flow Control in Bash Scripting](https://learntodevops.hashnode.dev/flow-control-in-bash-scripting)
-- [Bash Scripting for Beginners](https://learntodevops.hashnode.dev/bash-scripting-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
