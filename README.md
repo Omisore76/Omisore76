@@ -41,11 +41,11 @@
 
 # 📩 New Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Simple Tips for Keeping Your AWS Costs Under Control](https://learntodevops.hashnode.dev/simple-tips-for-keeping-your-aws-costs-under-control)
 - [AWS 3-tier Architecture](https://learntodevops.hashnode.dev/aws-3-tier-architecture)
 - [The Osi Model](https://learntodevops.hashnode.dev/the-osi-model)
 - [Networking Devices](https://learntodevops.hashnode.dev/networking-devices)
 - [Computer Networking](https://learntodevops.hashnode.dev/computer-networking)
+- [Flow Control in Bash Scripting](https://learntodevops.hashnode.dev/flow-control-in-bash-scripting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
