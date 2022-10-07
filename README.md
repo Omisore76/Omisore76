@@ -41,11 +41,11 @@
 
 # 📩 New Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building A Test Environment on AWS With Terraform: A Step-By-Step Guide](https://learntodevops.hashnode.dev/building-a-test-environment-on-aws-with-terraform-a-step-by-step-guide)
 - [Complete Agile Planning with ZenHub](https://learntodevops.hashnode.dev/complete-agile-planning-with-zenhub)
 - [Simple Tips for Keeping Your AWS Costs Under Control](https://learntodevops.hashnode.dev/simple-tips-for-keeping-your-aws-costs-under-control)
 - [AWS 3-tier Architecture](https://learntodevops.hashnode.dev/aws-3-tier-architecture)
 - [The Osi Model](https://learntodevops.hashnode.dev/the-osi-model)
-- [Networking Devices](https://learntodevops.hashnode.dev/networking-devices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
